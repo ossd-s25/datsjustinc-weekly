@@ -14,8 +14,6 @@
 /**************/
 
 html {
-  height: 100%;
-  margin: 0;
   font-size: 100%;
 }
 
@@ -23,8 +21,6 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  height: 100%;
-  margin: 0;
 }
 
 .container {
@@ -200,7 +196,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 .masthead {
