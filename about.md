@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there, welcome to my blog! My name is Justin (JC). I am a senior student at NYU. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a self taught environment artist. In my free time, I model, texture, and rig 3D models for games in Unity and Unreal Engine. Feel free to check out some of my works below! 
+
+[Portfolio](https://jcgamedesign.com/)
 

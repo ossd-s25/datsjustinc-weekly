@@ -1,2 +1,5 @@
-This is a simple template for the class blog. 
+# My Blog
 
+## Overview
+
+Welcome to my blog's repository. Here, I'll be posting weekly entries for my blog page. 
