@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey there, welcome to my blog! My name is Justin (JC). I am a senior student at NYU. 
+Hey there, welcome to my blog! My name is Justin. I am a senior student at NYU. 
 
 ### More Information
 
