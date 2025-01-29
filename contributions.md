@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Jan 28 | [link to my contribution](https://www.openstreetmap.org/user/datsjustinc/history#map=19/41.262211/-73.006312) | Open Street Map | Updated location status to permanently closed. |
+| Jan 28, 2025 | [link to my contribution](https://www.openstreetmap.org/user/datsjustinc/history#map=19/41.262211/-73.006312) | Open Street Map | Updated location status to permanently closed. |
 |     |     |     |      |
 |     |     |     |      |
