@@ -27,3 +27,5 @@ Replace the first row with your own contribution.
 | Apr 20, 2025 | [Link to My Contribution](https://www.openstreetmap.org/changeset/165215111#map=19/40.729731/-73.983523) | Open Street Map | Updated location information to be accurate. |
 | Apr 20, 2025 | [Link to My Contribution](https://en.wikipedia.org/wiki/Special:Contributions/Datsjustinc) | Wikepedia | Created article on aesthetic combat in video games. |
 | Apr 20, 2025 | [Link to My Contribution](https://en.wikipedia.org/wiki/Special:Contributions/Datsjustinc) | Wikepedia | Expanded article on environment artist in video games with sections on responsibilities, tools, career paths, and challenges. |
+| May 06, 2025 | [Link to My Contribution](https://en.wikipedia.org/wiki/Special:Contributions/Datsjustinc) |
+Wikepedia | Added section about modern toolchains and development environments to article on video game programming. |
